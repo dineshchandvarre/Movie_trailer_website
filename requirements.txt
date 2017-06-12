@@ -1,3 +1,13 @@
+click==6.7
+Flask==0.12.2
+Flask-HTTPAuth==3.2.3
 gunicorn==19.7.1
 import-string==0.1.0
+itsdangerous==0.24
+
+pycurl==7.43.0
+python-apt===1.1.0.b1-elementary2-ubuntu16.04.1
+PyYAML==3.12
+six==1.10.0
+Werkzeug==0.12.2
 
